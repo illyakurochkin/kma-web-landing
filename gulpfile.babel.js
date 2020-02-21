@@ -34,4 +34,4 @@ gulp.task('watch', function(){
   gulp.watch('src/images/*', gulp.series('images'));
 });
 
-gulp.task('default', gulp.parallel('styles', 'scripts', 'images', 'watch'));
+gulp.task('default', gulp.parallel('styles', 'scripts', 'images'));
