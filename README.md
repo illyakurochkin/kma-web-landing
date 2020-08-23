@@ -1,5 +1,9 @@
 # HTML Landing Page
 
+## View on GitHub Pages
+
+- https://illyakurochkin.github.io/kma-web-practice1/.
+
 ## Install
 
 `npm install`
